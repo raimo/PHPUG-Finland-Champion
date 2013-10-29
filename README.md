@@ -46,6 +46,12 @@ The actual final will take place on Friday 1.11.2013 at the PHP User Group Finla
 
 In the final, the competitors will live code against each other while a massive crowd wildly cheers them on.
 
+#### Jury
+
+* Ilari Mäkelä, Solinor Oy
+* TBA
+* TBA
+
 #### Legal
 
 By taking part in this competition you give Solinor the right to publish your answers in all publications related to the competition (web site, social media etc.). You give consent that we film the live event and publish the video online.
